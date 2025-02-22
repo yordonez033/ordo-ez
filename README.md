@@ -1,2 +1,2 @@
 # ordo-ez
-Este es un proyecto de desarrollo que consiste en una asociación ferroeléctricos en mi sitios web.
+Este es un proyecto que se tiene como fin desarrollar a largo plazo. llamado asociacion de distribucion Multilogix Ordoñez en mi sitios web.
